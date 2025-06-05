@@ -2,6 +2,8 @@ C = 98nF
 R= 9.85 kOhm
 frequenza di taglio = 165 Hz
 
+L = 0.05 H (???)
+frequenza di taglio = 31350 Hz (???)
 
 
 frequanze || ampiezze V
